@@ -1,4 +1,4 @@
-[![MasterHead]([https://imgs.search.brave.com/WS_7licKkNqNsKHsqY7qDhVGflp6iBfFYBOLN9u76jQ/rs:fit:1201:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5q/aUZrSXRJWUVwSms1/SVU0OERQdk5nSGFD/NyZwaWQ9QXBp](https://syntaxdesign.com/wp-content/uploads/2018/05/Full-Banner-Gif-04.gif))](https://samkg.io)
+[![MasterHead]([https://syntaxdesign.com/wp-content/uploads/2018/05/Full-Banner-Gif-04.gif)](https://samkg.io)
 <h1 align="center">Hi 👋, I'm Samuel Kagunda</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
